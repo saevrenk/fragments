@@ -6,7 +6,7 @@ Depends on pandas and rdkit.
 
 ## Example usage
 
-Find the most common 5 fragments which have more than 5 heavy atoms in the dataframe test.csv SMILES column:
+Find the most common 5 fragments which have more than 5 heavy atoms in the dataset (.csv format) with a SMILES column:
 
 common_frags.py -n 5 -m 5 -o 1 test.csv
  
