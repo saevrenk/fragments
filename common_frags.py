@@ -2,7 +2,7 @@
 Find the most common fragments for a given SMILES set
 
 Given a dataset in .csv format with SMILES column, returns 
-the n most common fragments which have more heavy atoms than m 
+the n most common fragments which have more m than heavy atoms
 
 """
 
